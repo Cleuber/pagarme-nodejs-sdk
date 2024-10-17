@@ -1,0 +1,6 @@
+src/
+tests/
+*.log
+node_modules/
+.env
+.git

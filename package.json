@@ -26,10 +26,10 @@
     "trailingComma": "es5",
     "quoteProps": "preserve"
   },
-  "name": "pagarmeapisdklib",
-  "description": "Pagarme API",
+  "name": "pagarme-sdk-lib",
+  "description": "Fork from Pagarme API",
   "author": {
-    "name": "Pagar.me Pagamentos S/A",
+    "name": "Fork from Pagar.me Pagamentos S/A",
     "email": "suporte@pagar.me",
     "url": "https://github.com/pagarme/"
   },
